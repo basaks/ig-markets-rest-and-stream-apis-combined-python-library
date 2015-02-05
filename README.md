@@ -1,5 +1,7 @@
 # IG-markets REST and Streaming APIs combined python library
-This is a combinination of REST and Streaming APIs. 
+
+This is a combinination of REST and Streaming APIs for IG markets.
+
 #### Streaming API for data streaming and download
 - Source of download_previous_bars.py - https://pypi.python.org/pypi/trading_ig
 - Source of streaming_data.py - https://github.com/femtotrader/ig-markets-stream-api-python-library
@@ -46,5 +48,5 @@ username = "DEMO-*******-LIVE"
 password = "*********"
 api_key = "******************************************"
 acc_type = "DEMO"  # LIVE / DEMO
-acc_number = "*******
+acc_number = "*******"
 ```
