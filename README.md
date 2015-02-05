@@ -7,7 +7,7 @@ This is a combinination of REST and Streaming APIs for IG markets.
 - Source of streaming_data.py - https://github.com/femtotrader/ig-markets-stream-api-python-library
 
 #### REST API for order mamangement and account queries
-Source of REST api - https://github.com/lewisbarber/ig-markets-rest-api-python-library. I had to drop a parameter from the market order function to make it work on ig demo account. I have also set out the various differnt paramenters that are required to send an order throough via the api for sending a market order and also a limit/stop order.
+Source of REST api - https://github.com/lewisbarber/ig-markets-rest-api-python-library. I had to drop a parameter from the market order function to make it work on my ig demo account. I have also set out the various different paramenters required to send an order through via the api for sending a market order and also a limit/stop order.
 
 REST API can be used to get 
 - account information
